@@ -1,2 +1,1 @@
 # shruti.github.io
-Resume
